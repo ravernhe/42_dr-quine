@@ -1,0 +1,2 @@
+gcc -Wall -Wextra Grace.c
+./a.out; diff Grace.c Grace_kid.c

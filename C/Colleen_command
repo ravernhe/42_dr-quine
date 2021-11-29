@@ -1,0 +1,2 @@
+gcc -Wall -Wextra Colleen.c
+./a.out > tmp_Colleen; diff tmp_Colleen Colleen.c
